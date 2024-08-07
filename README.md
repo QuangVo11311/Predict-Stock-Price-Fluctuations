@@ -1,5 +1,3 @@
-# Predict-Stock-Price-Fluctuations
-
 <h1 align="center">Predict stock price fluctuations using LSTM</h1>
 
 <p align="center">
