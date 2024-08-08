@@ -14,7 +14,7 @@ I use a dataset containing historical stock prices of four companies. This datas
 The LSTM model is built using deep learning frameworks TensorFlow. I train the model on the training dataset, adjusting hyperparameters such as the number of hidden layers, the number of neurons per layer, and the learning rate. I employ techniques like regularization and dropout to prevent overfitting.
 
 ## Evaluation and Results
-Once the model is trained, I evaluate its performance on the testing dataset. We compute various metrics such as r2 score (R2), and mean absolute error (MAE) to assess the model's accuracy. We visualize the predicted stock prices alongside the actual prices to gain insights into the model's performance.
+Once the model is trained, I evaluate its performance on the testing dataset. I compute various metrics such as r2 score (R2), and mean absolute error (MAE) to assess the model's accuracy. I visualize the predicted stock prices alongside the actual prices to gain insights into the model's performance.
 
 ## Contributing
 I welcome contributions to enhance the project and make it even more effective. If you have any suggestions, bug fixes, or new features to add, please submit a pull request. I appreciate your contributions!
